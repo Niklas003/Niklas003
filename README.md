@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niklas
-- 👀 I’m interested in running
+- 👀 I’m interested in long distance running, triathlon
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... Idk

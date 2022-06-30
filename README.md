@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niklas
 - 👀 I’m interested in long distance running, triathlon
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, Java and other stuff
 - 💞️ I’m looking to collaborate on ... cool stuff i guess
 - 📫 How to reach me... I have no Idea
 

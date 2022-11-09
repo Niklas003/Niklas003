@@ -2,7 +2,7 @@
 - 👀 I’m interested in long distance running, triathlon
 - 🌱 I’m currently learning Frontend Dev and other stuff
 - 💞️ I’m looking to collaborate on ... cool stuff i guess
-- 📫 How to reach me... I have no Idea
+- 📫 How to reach me... I have no Idea, leave me a Message or a Comment ^^
 - 📖 Currently I'm studying Computer Science in Berlin and Work at DB Systel GmbH 
 
 <!---

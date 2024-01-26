@@ -10,7 +10,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  [![](https://visitcount.itsvg.in/api?id=niklas003&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=niklas003&icon=0&color=12)](https://visitcount.itsvg.in)
 <!---
 Niklas003/Niklas003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
